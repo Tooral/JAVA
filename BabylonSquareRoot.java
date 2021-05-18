@@ -1,5 +1,5 @@
 // Tural Hagverdiyev
-// U10263909
+
 // this assignment asks user to input positive numbers and using Babylonian method to find the square root.
 import java.util.Scanner;
 public class BabylonSquareRoot
