@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // this program asks user to enter a number and, then based on number, it shuffles cards
 // for this program, there has been used some classes such as scanner, boolean, string, if, while loops, for, etc. 
 
