@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // I put constant for n, and then I put doubles (decimals) for coordinates, then I use math method to 
 // find the frormula for angle, then syntax for outpitting x and y coordinates, before that i am using math cos and math sin
 // methods to find x and y coordinates related to my radius and angle.  
