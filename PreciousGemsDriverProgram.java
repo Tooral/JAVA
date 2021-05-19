@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // I couldnt completely finish the code and I am aware that it doesnt compilie
 import java.text.NumberFormat;
 import java.util.Scanner;
