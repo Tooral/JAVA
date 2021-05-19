@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // In this program, user inputs name, color, price and amount of carats interested.
 // for this program striing class, switch statements, private class, format etc has been used
 import java.text.*;
