@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // Assignment 2 - calculating the area and volume with given the radius of a sphere.
   import java.util.Scanner;
 public class SphereCalculations
