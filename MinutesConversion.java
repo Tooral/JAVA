@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // Assignment 2 - writing a code which converting a number of minutes 
 // to both days and hours 
 import java.util.Scanner; // beginning of code
