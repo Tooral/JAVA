@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // Assignment 2 - calculating frequency and energy using given formula 
 import java.util.Scanner;// beginning of code 
 public class EnergyofLight 
