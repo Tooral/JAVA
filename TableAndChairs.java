@@ -1,4 +1,4 @@
-// Tural Hagverdiyev, U10263909
+// Tural Hagverdiyev, 
 
 class TableAndChairs
 {
