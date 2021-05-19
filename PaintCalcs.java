@@ -1,4 +1,4 @@
-/* Tural Hagverdiyev U10263909 
+/* Tural Hagverdiyev 
 this program requires length, width, height of rectangular room. it calculates the wall area the amount of gallon pints needs for area
 and cost of paint needs to complete this. 
 */  
